@@ -1,1 +1,1 @@
-let LET = "let";
+console.log(ships);
